@@ -8,6 +8,10 @@
  <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" max-width="100%" height="auto" border="10" />
 </a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" max-width="10%" height="auto" border="10" />
+</a>
+
 # Bibliography
 
 * Ward, R.A. 1984. Mosquito fauna of Guam: Case history of an introduced fauna, p. 143-161. /it-
