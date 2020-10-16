@@ -21,3 +21,14 @@ Commerce and the spread of pests and disease vectors. M. Laird (Ed.). Praeger, N
 
 * Nowell, Wesley. “Vector Introduction and Malaria Infection on Guam.” Journal of the American Mosquito Control Association 3, no. 2 (1987): 259=265.
 
+# Databases
+
+## Global Biodiversity Information Facility (GBOF) Occurrence Records
+
+* Republic of Palau 
+* Federated States of Micronesia
+* Guam https://www.gbif.org/occurrence/taxonomy?taxon_key=3346&gadm_gid=GUM
+* Commonwealth of the Nortern Mariana Islands
+* Marshall Islands
+* American Samoa
+* Hawaii
