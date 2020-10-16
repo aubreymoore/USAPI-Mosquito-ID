@@ -5,6 +5,10 @@
 # Videos
 [![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="100" height="180" border="10" />
+</a>
+
 # Bibliography
 
 * Ward, R.A. 1984. Mosquito fauna of Guam: Case history of an introduced fauna, p. 143-161. /it-
