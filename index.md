@@ -25,22 +25,19 @@ Blah bla blah.
 
 # Bibliography
 
-* [Rueda, L. M., Pecor, J. E., Reeves, W. K., Wolf, S. P., Nunn, P. V., Rabago, R. Y., Gutierrez, T. L., & Debboun, M. (2011). Mosquitoes of Guam and the Northern Marianas: distribution, checklists, and notes on mosquito-borne pathogens. U.S. Army Medical Department journal, 17–28. https://doi.org/10.21236/ada550625](https://github.com/aubreymoore/USAPI-Mosquito-ID/raw/main/docs/GuamCulicidae.pdf)
+* [Rueda, L. M., Pecor, J. E., Reeves, W. K., Wolf, S. P., Nunn, P. V., Rabago, R. Y., Gutierrez, T. L., & Debboun, M. (2011). **Mosquitoes of Guam and the Northern Marianas: distribution, checklists, and notes on mosquito-borne pathogens.** U.S. Army Medical Department journal, 17–28. https://doi.org/10.21236/ada550625](https://github.com/aubreymoore/USAPI-Mosquito-ID/raw/main/docs/GuamCulicidae.pdf)
 
-* Rueda, Leopoldo M., James E. Pecor, Will K. Reeves, Stephen P. Wolf, Peter V. Nunn, Rosanna Y. Rabago, Teresa L. Gutierrez and Mustapha Debboun. 2011. Mosquitoes of Guam and the Northern Marianas: distribution, checklists, and notes on mosquito-borne pathogens. 
+* [Bohart, Richard M. 1956. **Diptera: Culicidae.** In Insects of Micronesia 12(1) 1-85.](http://hbs.bishopmuseum.org/pubs-online/pdf/iom12-1.pdf)
 
-* [Bohart, Richard M. 1956. Diptera: Culicidae. In *Insects of Micronesia* 12(1) 1-85.](http://hbs.bishopmuseum.org/pubs-online/pdf/iom12-1.pdf)
+* [Sweezey, O. H. 1942. **Culicidae of Guam.** In *Insects of Guam I*.](http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf)
 
-* [Sweezey, O. H. 1942. Culicidae of Guam. In *Insects of Guam I*.](http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf)
+* Ward, R.A. 1984. **Mosquito fauna of Guam: Case history of an introduced fauna.** p. 143-161. In *Commerce and the spread of pests and disease vectors.* M. Laird (Ed.). Praeger, New York.
 
-* Ward, R.A. 1984. Mosquito fauna of Guam: Case history of an introduced fauna, p. 143-161. /it-
-Commerce and the spread of pests and disease vectors. M. Laird (Ed.). Praeger, New York.
+* [Kern-Allely, Stephanie 2019. **Notes from the Field: First Evidence of Locally Acquired Dengue Since 1944 — Guam, 2019.** MMWR. Morbidity and Mortality Weekly Report 69 (2020).](https://doi.org/10.15585/mmwr.mm6913a4)
 
-* [Kern-Allely, Stephanie. Notes from the Field</Em>: First Evidence of Locally Acquired Dengue Since 1944 — Guam, 2019. MMWR. Morbidity and Mortality Weekly Report 69 (2020).](https://doi.org/10.15585/mmwr.mm6913a4)
+* Reeves, W. C., and A. Rudnick. 1951. **A Survey of the Mosquitoes of Guam in Two Periods in 1948 and 1949 and Its Epidemiological Implications.** The American Journal of Tropical Medicine and Hygiene, s1-31, no. 5: 633–58.
 
-* Reeves, W. C., and A. Rudnick. “A Survey of the Mosquitoes of Guam in Two Periods in 1948 and 1949 and Its Epidemiological Implications.” The American Journal of Tropical Medicine and Hygiene, s1-31, no. 5 (1951): 633–58.
-
-* Nowell, Wesley. “Vector Introduction and Malaria Infection on Guam.” Journal of the American Mosquito Control Association 3, no. 2 (1987): 259=265.
+* Nowell, Wesley. 1987. **Vector Introduction and Malaria Infection on Guam.** Journal of the American Mosquito Control Association 3, no. 2: 259=265.
 
 # Databases
 
