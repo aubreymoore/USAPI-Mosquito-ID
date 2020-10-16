@@ -18,7 +18,7 @@ Blah bla blah.
  <img src="https://www.bioquip.com/prod_images/2883-001-Sentinel-Mosquito-Trap-2.jpg" alt="Watch the video" width="30%" height="auto" border="10" />
 </a>
 
-* Destroying Mosquito Breeding Sites, University of Guam.
+###### Destroying Mosquito Breeding Sites, University of Guam
 <a href="https://www.youtube.com/embed/mkEmcjaFiko" target="_blank">
  <img src="https://img.youtube.com/vi/mkEmcjaFiko/0.jpg" alt="Watch the video" width="30%" height="auto" border="10" />
 </a>
