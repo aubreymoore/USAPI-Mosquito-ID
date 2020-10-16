@@ -25,7 +25,7 @@ Blah bla blah.
 
 # Bibliography
 
-* [Rueda, L. M., Pecor, J. E., Reeves, W. K., Wolf, S. P., Nunn, P. V., Rabago, R. Y., Gutierrez, T. L., & Debboun, M. (2011). Mosquitoes of Guam and the Northern Marianas: distribution, checklists, and notes on mosquito-borne pathogens. U.S. Army Medical Department journal, 17–28. https://doi.org/10.21236/ada550625](x)
+* [Rueda, L. M., Pecor, J. E., Reeves, W. K., Wolf, S. P., Nunn, P. V., Rabago, R. Y., Gutierrez, T. L., & Debboun, M. (2011). Mosquitoes of Guam and the Northern Marianas: distribution, checklists, and notes on mosquito-borne pathogens. U.S. Army Medical Department journal, 17–28. https://doi.org/10.21236/ada550625](https://github.com/aubreymoore/USAPI-Mosquito-ID/raw/main/docs/GuamCulicidae.pdf)
 
 * Rueda, Leopoldo M., James E. Pecor, Will K. Reeves, Stephen P. Wolf, Peter V. Nunn, Rosanna Y. Rabago, Teresa L. Gutierrez and Mustapha Debboun. 2011. Mosquitoes of Guam and the Northern Marianas: distribution, checklists, and notes on mosquito-borne pathogens. 
 
