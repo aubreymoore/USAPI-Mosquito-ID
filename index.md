@@ -23,6 +23,9 @@ Commerce and the spread of pests and disease vectors. M. Laird (Ed.). Praeger, N
 
 # Databases
 
-## Global Biodiversity Information Facility (GBIF) Occurrence Records
+## Global Biodiversity Information Facility (GBIF)
 
-[Culicidae occurrence records for Palau, FSM, Guam, CNMI, RMI, American Samoa, and Hawaii](https://www.gbif.org/occurrence/taxonomy?taxon_key=3346&gadm_gid=GUM&gadm_gid=PLW&gadm_gid=FSM&gadm_gid=MNP&gadm_gid=MHL&gadm_gid=ASM&gadm_gid=USA.12_1)
+* [Culicidae occurrence records for Micronesia (Palau, FSM, Guam, CNMI, RMI), American Samoa, and Hawaii](https://www.gbif.org/occurrence/taxonomy?taxon_key=3346&gadm_gid=GUM&gadm_gid=PLW&gadm_gid=FSM&gadm_gid=MNP&gadm_gid=MHL)
+* [Culicidae occurrence records for American Samoa](https://www.gbif.org/occurrence/taxonomy?taxon_key=3346&gadm_gid=ASM)
+* [Culicidae occurrence records for Hawaii](https://www.gbif.org/occurrence/taxonomy?taxon_key=3346&gadm_gid=USA.12_1) 
+
