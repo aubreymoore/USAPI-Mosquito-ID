@@ -5,7 +5,7 @@
 # Videos
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" max-width="20%" height="auto" border="10" />
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" max-width="10%" height="auto" border="10" />
 </a>
 
 # Bibliography
