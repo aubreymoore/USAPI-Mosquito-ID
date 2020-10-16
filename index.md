@@ -19,6 +19,8 @@ Blah bla blah.
 
 # Bibliography
 
+* Sweezey, O. H. 1942. Culicidae of Guam. In *Insects of Guam I*. http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf
+
 * Ward, R.A. 1984. Mosquito fauna of Guam: Case history of an introduced fauna, p. 143-161. /it-
 Commerce and the spread of pests and disease vectors. M. Laird (Ed.). Praeger, New York.
 
