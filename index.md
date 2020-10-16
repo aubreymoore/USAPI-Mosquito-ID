@@ -1,6 +1,13 @@
-<img src="mosquito.jpg" width="30%" height="auto"  />
-
 # Workshop outline
+
+## Topic 1
+Blah bla blah.
+### Subtopic 1
+Blah bla blah.
+### Subtopic 2
+Blah bla blah.
+## Topic 2
+Blah bla blah.
 
 # Workshop documents
 
@@ -28,4 +35,8 @@ Commerce and the spread of pests and disease vectors. M. Laird (Ed.). Praeger, N
 * [Culicidae occurrence records for Micronesia (Palau, FSM, Guam, CNMI, RMI)](https://www.gbif.org/occurrence/taxonomy?taxon_key=3346&gadm_gid=GUM&gadm_gid=PLW&gadm_gid=FSM&gadm_gid=MNP&gadm_gid=MHL)
 * [Culicidae occurrence records for American Samoa](https://www.gbif.org/occurrence/taxonomy?taxon_key=3346&gadm_gid=ASM)
 * [Culicidae occurrence records for Hawaii](https://www.gbif.org/occurrence/taxonomy?taxon_key=3346&gadm_gid=USA.12_1) 
+
+# Just for Fun
+
+<img src="mosquito.jpg" width="30%" height="auto"  />
 
