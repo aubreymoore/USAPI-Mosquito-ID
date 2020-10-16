@@ -39,4 +39,5 @@ Commerce and the spread of pests and disease vectors. M. Laird (Ed.). Praeger, N
 # Just for Fun
 
 <img src="mosquito.jpg" width="30%" height="auto"  />
+* [TED talk on zapping mosquitos with a laser](https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria?language=en)
 
