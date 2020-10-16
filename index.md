@@ -15,12 +15,10 @@ Blah bla blah.
 
 * BG Sentinal 2 Mosquito Trap: Assembly and Operation, Guam Division of Environmental Health, Mosquito Surveillance and Control Program
 <a href="https://drive.google.com/file/d/1AZ7X2JUNNDS5xxBYGOFqO4_zTOwTqjiX/view?usp=sharing" target="_blank">
- <img src="https://img.youtube.com/vi/mkEmcjaFiko/0.jpg" alt="Watch the video" width="30%" height="auto" border="10" />
+ <img src="https://www.bioquip.com/prod_images/2883-001-Sentinel-Mosquito-Trap-2.jpg" alt="Watch the video" width="30%" height="auto" border="10" />
 </a>
 
-[BG Sentinal 2 Mosquito Trap: Assembly and Operation](https://drive.google.com/file/d/1AZ7X2JUNNDS5xxBYGOFqO4_zTOwTqjiX/view?usp=sharing)
-
-* Video title.
+* Destroying Mosquito Breeding Sites, University of Guam.
 <a href="https://www.youtube.com/embed/mkEmcjaFiko" target="_blank">
  <img src="https://img.youtube.com/vi/mkEmcjaFiko/0.jpg" alt="Watch the video" width="30%" height="auto" border="10" />
 </a>
