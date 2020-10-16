@@ -25,7 +25,7 @@ Blah bla blah.
 
 # Bibliography
 
-* [Bohart, Richard M. 1956. Diptera: Culicidae. In *Insects of Micronesia* 12(1) 1-85.(http://hbs.bishopmuseum.org/pubs-online/pdf/iom12-1.pdf)
+* [Bohart, Richard M. 1956. Diptera: Culicidae. In *Insects of Micronesia* 12(1) 1-85.](http://hbs.bishopmuseum.org/pubs-online/pdf/iom12-1.pdf)
 
 * [Sweezey, O. H. 1942. Culicidae of Guam. In *Insects of Guam I*.](http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf)
 
