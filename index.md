@@ -19,12 +19,12 @@ Blah bla blah.
 
 # Bibliography
 
-* Sweezey, O. H. 1942. Culicidae of Guam. In *Insects of Guam I*. http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf
+* [Sweezey, O. H. 1942. Culicidae of Guam. In *Insects of Guam I*.](http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf)
 
 * Ward, R.A. 1984. Mosquito fauna of Guam: Case history of an introduced fauna, p. 143-161. /it-
 Commerce and the spread of pests and disease vectors. M. Laird (Ed.). Praeger, New York.
 
-* Kern-Allely, Stephanie. “<em>Notes from the Field</Em>: First Evidence of Locally Acquired Dengue Since 1944 — Guam, 2019.” MMWR. Morbidity and Mortality Weekly Report 69 (2020). https://doi.org/10.15585/mmwr.mm6913a4.
+* [Kern-Allely, Stephanie. Notes from the Field</Em>: First Evidence of Locally Acquired Dengue Since 1944 — Guam, 2019. MMWR. Morbidity and Mortality Weekly Report 69 (2020).](https://doi.org/10.15585/mmwr.mm6913a4)
 
 * Reeves, W. C., and A. Rudnick. “A Survey of the Mosquitoes of Guam in Two Periods in 1948 and 1949 and Its Epidemiological Implications.” The American Journal of Tropical Medicine and Hygiene, s1-31, no. 5 (1951): 633–58.
 
