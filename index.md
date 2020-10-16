@@ -13,7 +13,7 @@ Blah bla blah.
 
 # Videos
 
-* BG Sentinal 2 Mosquito Trap: Assembly and Operation, Guam Division of Environmental Health, Mosquito Surveillance and Control Program
+###### BG Sentinal 2 Mosquito Trap: Assembly and Operation, Guam Division of Environmental Health, Mosquito Surveillance and Control Program
 <a href="https://drive.google.com/file/d/1AZ7X2JUNNDS5xxBYGOFqO4_zTOwTqjiX/view?usp=sharing" target="_blank">
  <img src="https://www.bioquip.com/prod_images/2883-001-Sentinel-Mosquito-Trap-2.jpg" alt="Watch the video" width="30%" height="auto" border="10" />
 </a>
