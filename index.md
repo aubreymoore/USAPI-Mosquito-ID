@@ -1,3 +1,5 @@
+<img src="mosquito.jpg"/>
+
 # Workshop outline
 
 # Workshop documents
