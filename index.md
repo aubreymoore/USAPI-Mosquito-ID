@@ -1,4 +1,4 @@
-<img src="mosquito.jpg"/>
+<img src="mosquito.jpg" width="20%" height="auto" />
 
 # Workshop outline
 
