@@ -7,7 +7,7 @@
 # Videos
 
 <a href="https://www.youtube.com/embed/mkEmcjaFiko" target="_blank">
- <img src="https://img.youtube.com/vi/mkEmcjaFiko/0.jpg" alt="Watch the video" width="20%" height="auto" border="10" />
+ <img src="https://img.youtube.com/vi/mkEmcjaFiko/0.jpg" alt="Watch the video" width="30%" height="auto" border="10" />
 </a>
 
 # Bibliography
