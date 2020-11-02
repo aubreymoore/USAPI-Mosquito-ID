@@ -1,6 +1,9 @@
 # Workshop outline
 
-## Topic 1
+## QGIS
+
+https://www.communityhealthmaps.org/blog/2019/05/23/vector-borne-disease-surveillance-with-qgis-a-series-of-two-day-workshops
+
 Blah bla blah.
 ### Subtopic 1
 Blah bla blah.
