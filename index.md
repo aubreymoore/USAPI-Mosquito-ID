@@ -2,7 +2,7 @@
 
 ## QGIS
 
-https://www.communityhealthmaps.org/blog/2019/05/23/vector-borne-disease-surveillance-with-qgis-a-series-of-two-day-workshops
+[https://www.communityhealthmaps.org/blog/2019/05/23/vector-borne-disease-surveillance-with-qgis-a-series-of-two-day-workshops](Two Day Workshop 2019)
 
 Blah bla blah.
 ### Subtopic 1
